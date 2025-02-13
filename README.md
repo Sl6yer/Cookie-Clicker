@@ -1,16 +1,15 @@
-# cookie_clicker
+# Cookie Clicker Flutter
 
-A new Flutter project.
+Este é um aplicativo baseado no popular jogo "Cookie Clicker", desenvolvido com Flutter. O objetivo do jogo é clicar em um cookie para ganhar "cookies" e usar esses cookies para comprar itens que ajudam a aumentar a produção de cookies.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Clique no cookie** para ganhar cookies.
+- **Compre itens** que aumentam a produção de cookies.
+- **Exibição otimizada** de números grandes com a formatação K, M, B, T (ex: 1K, 1M, 1B).
+- **Salvar o progresso** de cookies e multiplicadores quando o aplicativo for fechado e reaberto.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework para criar aplicativos nativos para dispositivos móveis.
+- **Dart**: Linguagem de programação usada no Flutter.
